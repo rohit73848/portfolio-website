@@ -7,7 +7,7 @@ const projectList = [{
     techStack: ["HTML", "CSS"],
     image: "assets/projects/project1.png",
     liveLink: "#",
-    githubLink: "#",
+    githubLink: "https://github.com/rohit73848",
 }, {
     id: 2,
     number: "02",
@@ -16,7 +16,7 @@ const projectList = [{
     techStack: ["HTML", "CSS","JavaScript"],
     image: "assets/projects/project2.png",
     liveLink: "#",
-    githubLink: "#",
+    githubLink: "https://github.com/rohit73848",
 },
 ]; 
 
