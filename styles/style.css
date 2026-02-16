@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
 
+
 :root {
-    
-    --primary: #030a16;
-    --secondary: #323946;
-    --disabled: #fff3;
-    --green: #7ef03d;
-    --white: #fff;
+  --primary: #0d1117;        /* main background */
+  --secondary: #161b22;      /* section bg */
+  --disabled: #ffffff1a;     /* border */
+  --green: #00ff9c;          /* neon accent */
+  --white: #e6edf3;          /* text */
 }
+
+
 
 * {
     margin: 0;
